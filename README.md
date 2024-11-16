@@ -1,4 +1,4 @@
-# Credit Card Customer
+# Credit Card Customer, Behavior Analysis
 
 ## To use this project follow the steps:
 - Make sure you have VS code installed with jyupter extension. (Not compusory, can also work with normal jyupter).
